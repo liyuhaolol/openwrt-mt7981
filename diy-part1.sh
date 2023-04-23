@@ -15,5 +15,5 @@
 
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld.git^b292dcafd5706c9f0545dc1848b34d3b7c8be49d' >>feeds.conf.default
-#echo 'src-git passwall https://github.com/liyuhaolol/passwall-packages.git' >>feeds.conf.default
-#echo 'src-git passwallluci https://github.com/liyuhaolol/passwall-luci.git' >>feeds.conf.default
+echo 'src-git passwall https://github.com/liyuhaolol/passwall-packages.git' >>feeds.conf.default
+echo 'src-git passwallluci https://github.com/liyuhaolol/passwall-luci.git' >>feeds.conf.default
